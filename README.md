@@ -9,7 +9,7 @@
 > An end-to-end ML pipeline that turns **unstructured job listing text** into a salary predictor built to solve a real gap in Indonesia's labor market: no standardized job titles, no public salary benchmarks.
 
 **Author:** Dimas Raditya Putra Handoko — *Data Analyst / Junior Data Scientist*
-[GitHub](https://github.com/Dimxshan) · [LinkedIn](https://www.linkedin.com/in/dimasradityaputrahandoko/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOaBHJzTZQGmmBZoTRU37Zg%3D%3D) 
+[GitHub](https://github.com/Dimxshan) · [LinkedIn](#) · [Portfolio](#)
 
 ---
 
@@ -77,8 +77,8 @@ Titles are matched against a keyword dictionary spanning 9 functional areas: **S
 | **R²** | 0.531 |
 
 <p align="center">
-  <img src="assets/actual_vs_predicted.png" width="480"/>
-  <img src="assets/feature_importance.png" width="480"/>
+  <img src="actual_vs_predicted.png" width="480"/>
+  <img src="feature_importance.png" width="480"/>
 </p>
 
 **Reading the results:** the model tracks well through the mid-salary range but plateaus for high-salary outliers (Rp 20M+) — expected, since job title and location text alone can't capture company-specific pay scales or unlisted seniority signals. `Job_Category` and `Experience_Level` dominate feature importance, confirming the engineered features — not location — carry most of the predictive signal.
