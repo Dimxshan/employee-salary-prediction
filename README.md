@@ -1,4 +1,4 @@
-# 💼 Indonesian Job Salary Prediction & Feature Engineering Pipeline
+# Indonesian Job Salary Prediction & Feature Engineering Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-RandomForest-F7931E?logo=scikitlearn&logoColor=white)
