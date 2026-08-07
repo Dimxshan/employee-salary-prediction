@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> An end-to-end ML pipeline that turns **unstructured job listing text** into a salary predictor — built to solve a real gap in Indonesia's labor market: no standardized job titles, no public salary benchmarks.
+> An end-to-end ML pipeline that turns **unstructured job listing text** into a salary predictor built to solve a real gap in Indonesia's labor market: no standardized job titles, no public salary benchmarks.
 
 **Author:** Dimas Raditya Putra Handoko — *Data Analyst / Junior Data Scientist*
 [GitHub](https://github.com/Dimxshan) · [LinkedIn](https://www.linkedin.com/in/dimasradityaputrahandoko/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOaBHJzTZQGmmBZoTRU37Zg%3D%3D) 
